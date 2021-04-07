@@ -1,0 +1,13 @@
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\bin\Debug\PFinal.exe.config
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\bin\Debug\PFinal.exe
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\bin\Debug\PFinal.pdb
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.csprojAssemblyReference.cache
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.Properties.Resources.resources
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.csproj.GenerateResource.cache
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.csproj.CoreCompileInputs.cache
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.exe
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.pdb
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.TelaCadStatus.resources
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.TelaP.resources
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.TelaCadTarefa.resources
+C:\Users\XJL16\OneDrive\Área de Trabalho\Técnico\ERE 02\Desenvolvimento Desktop\Trabalhos\PFinal\PFinal\PFinal\obj\Debug\PFinal.TelaCadUser.resources
